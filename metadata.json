@@ -1,0 +1,6 @@
+{
+  "name": "Polytechnic Semester - Bihar Polytechnic (SBTE) Study Hub",
+  "description": "Comprehensive educational portal for Bihar Polytechnic (SBTE) diploma engineering students featuring updated curriculum syllabus, handwritten notes, previous years questions (PYQs), and college directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
